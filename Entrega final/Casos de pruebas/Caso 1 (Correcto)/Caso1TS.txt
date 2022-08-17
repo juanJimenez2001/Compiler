@@ -1,0 +1,25 @@
+TABLA PRINCIPAL #1
+
+ LEXEMA 'texto'
+  +Tipo 'string'
+  +Despl 0
+ LEXEMA 'alert'
+  +Tipo 'funcion'
+      +numParam 1
+        +TipoParam01 'string'
+      +TipoRetorno 'void'
+  +EtiqFuncion 'Etalert01'
+ LEXEMA 'pideTexto'
+  +Tipo 'funcion'
+      +numParam 0
+      +TipoRetorno 'void'
+  +EtiqFuncion 'EtpideTexto02'
+
+TABLA de la FUNCION pideTexto #2
+
+
+TABLA de la FUNCION alert #3
+
+ LEXEMA 'msg'
+  +Tipo 'string'
+  +Despl 0

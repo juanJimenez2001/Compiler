@@ -1,0 +1,32 @@
+CONTENIDOS DE LA TABLA #0 : 
+
+* lexema: 'ss'
+  Atributos:
+--------- ----------
+* lexema: 'xx'
+  Atributos:
+--------- ----------
+* lexema: 'x'
+  Atributos:
+--------- ----------
+* lexema: 'y'
+  Atributos:
+--------- ----------
+* lexema: 'z'
+  Atributos:
+--------- ----------
+* lexema: 'boolean_2'
+  Atributos:
+--------- ----------
+* lexema: 'boolean_1'
+  Atributos:
+--------- ----------
+* lexema: 'f1'
+  Atributos:
+--------- ----------
+* lexema: 'f2'
+  Atributos:
+--------- ----------
+* lexema: 'b1'
+  Atributos:
+--------- ----------

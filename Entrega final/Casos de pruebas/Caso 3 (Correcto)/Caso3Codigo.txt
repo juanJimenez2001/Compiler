@@ -1,0 +1,38 @@
+let int n1;
+let int n2;
+let int n3;
+let boolean b1;
+let boolean b2;
+let boolean b3;
+let string s1;
+let string s2;
+let string s3;
+
+function f1 ()
+{
+	let string nn;
+	let boolean n1;
+	print (n + 8);
+}
+function f2 (boolean b4, int n4)
+{
+	let string b5;
+	let int n2;
+	let string s3;
+	n4=n2;
+	b5=s2;
+	if (n2 > n4) f1 ();
+}
+
+
+function f3 int (int n1)
+{
+	let string 
+	a ;
+	let int 
+	 n2;
+	let int i;
+	s3=s1;
+	if (n1 > n2) n4= f3 (n1 + 2);
+	return n3;
+}

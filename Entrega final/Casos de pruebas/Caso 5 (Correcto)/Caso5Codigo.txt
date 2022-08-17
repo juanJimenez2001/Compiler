@@ -1,0 +1,30 @@
+let string	cadena;
+input(cadena);
+let boolean logico1;
+let boolean logico2;
+let int		int2;
+int1 = 873;
+
+int2 = 378;
+if (! logico2) cadena = " hello";
+int2=int2--;
+function ff string(string sss)
+{
+	global = 33;
+	logico1 =  logico2;
+	if (logico1) sss = ff (cadena);
+	return sss;
+}
+		
+function funcion string (string logico2)
+{	let int var;
+
+  switch (int1){
+	case 0:	logico1 = int1 > int2;break;
+	case 8888: print(0);
+	case 3333: logico2="";
+  }
+  
+  return logico2;
+}
+print(((ff((funcion(cadena))))));

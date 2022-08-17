@@ -1,0 +1,31 @@
+let int hol;
+let string	cadena;
+cadena="Las constantes de tipo string en javaScript tienen un maximo de tamaño";
+input(str);
+let boolean bool1;
+let boolean logico2;
+let int		int2;
+int1 = 32;
+
+int2 = 5;
+if (! logico2) cadena = " analizador";
+
+function ff string(string sss)
+{
+	global = 33+5;
+	bool1 =  logico2;
+	if (bool1) sss = ff (cadena);
+	return sss;
+}
+		
+function funcion string (string logico2)
+{	let int var;
+
+  switch (int1){
+	case 0:	bool1 = int1 > int2;break;
+	case 8888: print(0);
+	case 3333: logico2="";
+  }
+  
+  return logico2;
+}

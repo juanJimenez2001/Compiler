@@ -1,0 +1,1 @@
+ERROR LEXICO: Cadena "Las constantes de tipo string en javaScript tienen un maximo de tamaño" esta fuera de rango en linea 3

@@ -1,0 +1,32 @@
+TABLA PRINCIPAL #1:
+
+* LEXEMA: 'ff'
+  +Tipo: 'funcion'
+      +numParam: 1
+        +TipoParam01: 'boolean'
+      +TipoRetorno: 'boolean'
+  +EtiqFuncion: 'Etff01'
+* LEXEMA: 'n1'
+  +Tipo: 'int'
+  +Despl: 0
+* LEXEMA: 'n2'
+  +Tipo: 'int'
+  +Despl: 1
+* LEXEMA: 'l1'
+  +Tipo: 'boolean'
+  +Despl: 2
+* LEXEMA: 'l2'
+  +Tipo: 'boolean'
+  +Despl: 3
+* LEXEMA: 'varglobal'
+  +Tipo: 'int'
+  +Despl: 68
+* LEXEMA: 'cad'
+  +Tipo: 'string'
+  +Despl: 4
+
+TABLA de la FUNCION ff #2:
+
+* LEXEMA: 'ss'
+  +Tipo: 'boolean'
+  +Despl: 0

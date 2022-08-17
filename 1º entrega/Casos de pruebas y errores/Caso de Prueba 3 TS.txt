@@ -1,0 +1,41 @@
+CONTENIDOS DE LA TABLA #0 : 
+
+* lexema: 'a'
+  Atributos:
+--------- ----------
+* lexema: 'b'
+  Atributos:
+--------- ----------
+* lexema: 'boolean_2'
+  Atributos:
+--------- ----------
+* lexema: 'operacion'
+  Atributos:
+--------- ----------
+* lexema: 'f2'
+  Atributos:
+--------- ----------
+* lexema: 'b1'
+  Atributos:
+--------- ----------
+* lexema: 'f5'
+  Atributos:
+--------- ----------
+* lexema: 'number'
+  Atributos:
+--------- ----------
+* lexema: 'x'
+  Atributos:
+--------- ----------
+* lexema: 'y'
+  Atributos:
+--------- ----------
+* lexema: 'z'
+  Atributos:
+--------- ----------
+* lexema: 'num_1'
+  Atributos:
+--------- ----------
+* lexema: 'num_2'
+  Atributos:
+--------- ----------

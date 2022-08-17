@@ -1,0 +1,33 @@
+// Ejemplo de caso de error
+
+let int66 = 32768;
+let string	cadena="Las constantes cadena van encerradas entre comillas dobles o entre comillas simples";
+input(str);
+let boolean bool1;
+let boolean logico2;
+let int		int2;
+int1 = 32;
+
+int2 = 5;
+if (! logico2 && bool1) cadena = " analizador";
+
+function ff string(string sss)
+{
+	global = 33/5;
+	logico1 =  logico2;
+	logico1;
+	if (logico1 || logico2) sss = ff (cadena);
+	return sss;
+}
+		
+function funcion string (string logico2)
+{	let int var;
+
+  switch (int1){
+	case 0:	logico1 = int1 < int2;break;
+	case 8888: print(0);
+	case 3333: logico2="";
+  }
+  
+  return logico2;
+}

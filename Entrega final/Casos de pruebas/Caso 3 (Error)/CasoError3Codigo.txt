@@ -1,0 +1,19 @@
+let int b;
+let int b;
+let int a;
+print ( "Introduce el primer operando" );
+input (a);
+print ("Introduce el segundo operando");input(b);
+function  operacion	int(int num_1, int num_2){
+	return  num_1 + num_2+77;
+}
+number = 0;
+print(operacion(b,a));
+function f2 boolean( int f2 , boolean b1 ){
+		input (y);
+		print ((4+5+77+(088+f2)));
+		return (!b1);
+}
+z= x + 6+ z + 1+ (2 + 6);	
+let int a=30;
+print (f5 (x, f2 (3, boolean_2)));

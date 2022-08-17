@@ -1,0 +1,38 @@
+CONTENIDOS DE LA TABLA #0 : 
+
+* lexema: 'ff'
+  Atributos:
+--------- ----------
+* lexema: 'ss'
+  Atributos:
+--------- ----------
+* lexema: 'b'
+  Atributos:
+--------- ----------
+* lexema: 'n1'
+  Atributos:
+--------- ----------
+* lexema: 'n2'
+  Atributos:
+--------- ----------
+* lexema: 'l1'
+  Atributos:
+--------- ----------
+* lexema: 'l2'
+  Atributos:
+--------- ----------
+* lexema: 'varglobal'
+  Atributos:
+--------- ----------
+* lexema: 'cad'
+  Atributos:
+--------- ----------
+* lexema: 'x'
+  Atributos:
+--------- ----------
+* lexema: 'y'
+  Atributos:
+--------- ----------
+* lexema: 'z'
+  Atributos:
+--------- ----------

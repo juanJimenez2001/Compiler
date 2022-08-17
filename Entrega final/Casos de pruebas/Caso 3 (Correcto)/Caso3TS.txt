@@ -1,0 +1,95 @@
+TABLA PRINCIPAL #1:
+
+* LEXEMA: 's3'
+  +Tipo: 'string'
+  +Despl: 134
+* LEXEMA: 'n1'
+  +Tipo: 'int'
+  +Despl: 0
+* LEXEMA: 'n2'
+  +Tipo: 'int'
+  +Despl: 1
+* LEXEMA: 'n3'
+  +Tipo: 'int'
+  +Despl: 2
+* LEXEMA: 'n4'
+  +Tipo: 'int'
+  +Despl: 199
+* LEXEMA: 'f1'
+  +Tipo: 'funcion'
+  	+numParam: 0
+  	+TipoRetorno: 'void'
+  +EtiqFuncion: 'Etf101'
+* LEXEMA: 'f2'
+  +Tipo: 'funcion'
+  	+numParam: 2
+  	  +TipoParam01: 'boolean'
+  	  +TipoParam02: 'int'
+  	+TipoRetorno: 'void'
+  +EtiqFuncion: 'Etf202'
+* LEXEMA: 'f3'
+  +Tipo: 'funcion'
+  	+numParam: 1
+  	  +TipoParam01: 'int'
+  	+TipoRetorno: 'int'
+  +EtiqFuncion: 'Etf303'
+* LEXEMA: 'n'
+  +Tipo: 'int'
+  +Despl: 198
+* LEXEMA: 'b1'
+  +Tipo: 'boolean'
+  +Despl: 3
+* LEXEMA: 'b2'
+  +Tipo: 'boolean'
+  +Despl: 4
+* LEXEMA: 'b3'
+  +Tipo: 'boolean'
+  +Despl: 5
+* LEXEMA: 's1'
+  +Tipo: 'string'
+  +Despl: 6
+* LEXEMA: 's2'
+  +Tipo: 'string'
+  +Despl: 70
+
+TABLA de la FUNCION f1 #2:
+
+* LEXEMA: 'nn'
+  +Tipo: 'string'
+  +Despl: 0
+* LEXEMA: 'n1'
+  +Tipo: 'boolean'
+  +Despl: 64
+
+TABLA de la FUNCION f2 #3:
+
+* LEXEMA: 's3'
+  +Tipo: 'string'
+  +Despl: 67
+* LEXEMA: 'b4'
+  +Tipo: 'boolean'
+  +Despl: 0
+* LEXEMA: 'b5'
+  +Tipo: 'string'
+  +Despl: 2
+* LEXEMA: 'n2'
+  +Tipo: 'int'
+  +Despl: 66
+* LEXEMA: 'n4'
+  +Tipo: 'int'
+  +Despl: 1
+
+TABLA de la FUNCION f3 #4:
+
+* LEXEMA: 'a'
+  +Tipo: 'string'
+  +Despl: 1
+* LEXEMA: 'n1'
+  +Tipo: 'int'
+  +Despl: 0
+* LEXEMA: 'n2'
+  +Tipo: 'int'
+  +Despl: 65
+* LEXEMA: 'i'
+  +Tipo: 'int'
+  +Despl: 66

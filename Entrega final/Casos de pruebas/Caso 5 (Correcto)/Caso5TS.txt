@@ -1,0 +1,47 @@
+TABLA PRINCIPAL #1:
+
+* LEXEMA: 'ff'
+  +Tipo: 'funcion'
+  	+numParam: 1
+  	  +TipoParam01: 'string'
+  	+TipoRetorno: 'string'
+  +EtiqFuncion: 'Etff01'
+* LEXEMA: 'int2'
+  +Tipo: 'int'
+  +Despl: 66
+* LEXEMA: 'int1'
+  +Tipo: 'int'
+  +Despl: 67
+* LEXEMA: 'logico2'
+  +Tipo: 'boolean'
+  +Despl: 65
+* LEXEMA: 'cadena'
+  +Tipo: 'string'
+  +Despl: 0
+* LEXEMA: 'logico1'
+  +Tipo: 'boolean'
+  +Despl: 64
+* LEXEMA: 'global'
+  +Tipo: 'int'
+  +Despl: 68
+* LEXEMA: 'funcion'
+  +Tipo: 'funcion'
+  	+numParam: 1
+  	  +TipoParam01: 'string'
+  	+TipoRetorno: 'string'
+  +EtiqFuncion: 'Etfuncion02'
+
+TABLA de la FUNCION ff #2:
+
+* LEXEMA: 'sss'
+  +Tipo: 'string'
+  +Despl: 0
+
+TABLA de la FUNCION funcion #3:
+
+* LEXEMA: 'logico2'
+  +Tipo: 'string'
+  +Despl: 0
+* LEXEMA: 'var'
+  +Tipo: 'int'
+  +Despl: 64

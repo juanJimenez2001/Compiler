@@ -1,0 +1,32 @@
+CONTENIDOS DE LA TABLA #0 : 
+
+* lexema: 'ff'
+  Atributos:
+--------- ----------
+* lexema: 'int2'
+  Atributos:
+--------- ----------
+* lexema: 'sss'
+  Atributos:
+--------- ----------
+* lexema: 'int1'
+  Atributos:
+--------- ----------
+* lexema: 'logico2'
+  Atributos:
+--------- ----------
+* lexema: 'var'
+  Atributos:
+--------- ----------
+* lexema: 'cadena'
+  Atributos:
+--------- ----------
+* lexema: 'logico1'
+  Atributos:
+--------- ----------
+* lexema: 'global'
+  Atributos:
+--------- ----------
+* lexema: 'funcion'
+  Atributos:
+--------- ----------

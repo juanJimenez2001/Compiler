@@ -1,0 +1,35 @@
+let int x;
+let boolean b;
+let int z= 55346436;
+input (x);
+print (x);
+
+input (z);
+print (x+z);
+print("cadena de caracteres superior al permitido por el lenguaje javaScript");
+
+b=x<z;if (b||z)
+
+
+x =x - 6* z+ 1+ [(2%y)/7)];
+
+
+let int     n1;
+let boolean l1;
+let string  cad;
+let boolean l2;
+input (n1);
+l1 = l2;
+if (! l2) cad = "hello";
+n2 = n1 + 378;
+
+print(6534756);
+function ff boolean(boolean ss)
+{
+	l2 = ! l1 && l2;
+	if (l2) l1 = ff (ss);
+	varglobal =7567844;
+	return (ss);
+}		
+if (ff(l1)) 
+    print (varglobal);
